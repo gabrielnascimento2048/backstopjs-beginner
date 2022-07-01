@@ -37,6 +37,13 @@
       "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
       "misMatchThreshold" : 0,
       "requireSameDimensions": true
+    },
+    {
+      "label": "Type Invalid Email",
+      "onReadyScript": "puppet/custom/invalidEmail.js",
+      "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+      "misMatchThreshold" : 0,
+      "requireSameDimensions": true
     }
 
 

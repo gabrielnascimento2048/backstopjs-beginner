@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/gabrielnascimento2048/backstopjs-beginner#readme",
   "devDependencies": {
-    "backstopjs": "^6.1.0"
+    "backstopjs": "^3.7.0"
   }
 }
