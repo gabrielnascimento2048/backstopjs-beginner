@@ -1,0 +1,24 @@
+{
+  "name": "backstopjs-beginner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "backstop test",
+    "visual:approve": "backstop approve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielnascimento2048/backstopjs-beginner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielnascimento2048/backstopjs-beginner/issues"
+  },
+  "homepage": "https://github.com/gabrielnascimento2048/backstopjs-beginner#readme",
+  "devDependencies": {
+    "backstopjs": "^6.1.0"
+  }
+}
